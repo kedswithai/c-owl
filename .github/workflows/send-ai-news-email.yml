@@ -1,0 +1,40 @@
+name: Send Daily AI News Email
+
+on:
+  push:
+    paths:
+      - 'ai-news/**.md'
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Send email
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          LATEST_FILE=$(ls ai-news/*.md | sort -r | head -1)
+          DATE=$(echo $LATEST_FILE | sed 's/ai-news\///' | sed 's/\.md//')
+          python3 - <<PYEOF
+import smtplib, os
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+
+date = '$DATE'
+with open('$LATEST_FILE', 'r') as f:
+    content = f.read()
+
+msg = MIMEMultipart()
+msg['Subject'] = f'[AI News] 最新AIニュース {date}'
+msg['From'] = 'keds.with.ai@gmail.com'
+msg['To'] = 'keds.with.ai@gmail.com'
+msg.attach(MIMEText(content, 'plain', 'utf-8'))
+
+with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
+    server.login('keds.with.ai@gmail.com', os.environ['GMAIL_APP_PASSWORD'])
+    server.sendmail('keds.with.ai@gmail.com', 'keds.with.ai@gmail.com', msg.as_string())
+print('Email sent successfully')
+PYEOF
