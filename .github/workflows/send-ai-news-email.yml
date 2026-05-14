@@ -2,8 +2,10 @@ name: Send Daily AI News Email
 
 on:
   push:
+    branches:
+      - main
     paths:
-      - 'ai-news/**.md'
+      - 'ai-news/*.md'
 
 jobs:
   send-email:
