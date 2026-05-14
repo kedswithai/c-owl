@@ -2,40 +2,17 @@ name: Send Daily c-owl News Email
 
 on:
   schedule:
-    - cron: '30 22 * * *'
+    - cron: "30 22 * * *"
   workflow_dispatch:
 
 jobs:
   send-email:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
+      - uses: actions/checkout@v4
       - name: Send email
         env:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: |
           TODAY=$(TZ=Asia/Tokyo date +%Y-%m-%d)
-          FILE="news/${TODAY}.md"
-          if [ ! -f "$FILE" ]; then
-            echo "No file found: $FILE"
-            exit 0
-          fi
-          python3 - "$TODAY" "$FILE" <<PYEOF
-import smtplib, os, sys
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
-date, filepath = sys.argv[1], sys.argv[2]
-with open(filepath, 'r') as f:
-    content = f.read()
-msg = MIMEMultipart()
-msg['Subject'] = f'[c-owl] 外国人材ニュース {date}'
-msg['From'] = 'keds.with.ai@gmail.com'
-msg['To'] = 'keds.with.ai@gmail.com'
-msg.attach(MIMEText(content, 'plain', 'utf-8'))
-with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
-    server.login('keds.with.ai@gmail.com', os.environ['GMAIL_APP_PASSWORD'])
-    server.sendmail('keds.with.ai@gmail.com', 'keds.with.ai@gmail.com', msg.as_string())
-print(f'Email sent: {date}')
-PYEOF
+          python3 scripts/send_email.py news "[c-owl] 外国人材ニュース" "$TODAY"
