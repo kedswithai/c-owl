@@ -2,8 +2,10 @@ name: Send Daily News Email
 
 on:
   push:
+    branches:
+      - main
     paths:
-      - 'news/**.md'
+      - 'news/*.md'
 
 jobs:
   send-email:
