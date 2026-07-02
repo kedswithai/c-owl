@@ -279,3 +279,8 @@ date,title,url,category,source
 2026-07-02,"訪日外客5月355万人 中国急落で2カ月連続マイナス",https://www.jnto.go.jp/news/press/20260617_monthly.html,インバウンド,JNTO（日本政府観光局）
 2026-07-02,"特定技能「工業製品製造業」6月25日に運用要領別冊改正",https://www.meti.go.jp/policy/mono_info_service/gaikokujinzai/index.html,外国人材,出入国在留管理庁・経済産業省
 2026-07-02,"外国人雇用管理指針 10月第2改正 待遇差説明義務化",https://www.mhlw.go.jp/stf/newpage_72793.html,外国人材,厚生労働省
+2026-07-03,"国連が初の「AIガバナンス・グローバル対話」を7月6〜7日ジュネーブで開催——193カ国が初めて同席しルール形成へ",https://indico.un.org/event/1023375/overview,AIガバナンス,UN/ITU/UNESCO
+2026-07-03,"AnthropicがAmazon・Microsoft・Googleと「AIジェイルブレーク4軸スコアリング」を提唱——CVSSに倣う業界標準化を目指す",https://aiweekly.co/alerts/anthropic-redeploys-fable-5-with-cross-lab-jailbreak-rubric,AIセキュリティ,Anthropic/AI Weekly
+2026-07-03,"PwC「2026年AIジョブバロメーター」——AIスキル求人が全体比9倍速で成長、雇用の「高度化」と「民主化」が二極化",https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html,AI雇用/労働市場,PwC
+2026-07-03,"アリババ「HappyHorse 1.1」公開——9枚マルチ参照・8シーン自動構成でグローバルAI動画競争に本格参入",https://technode.com/2026/06/23/alibaba-unveils-happyhorse-1-1-video-generation-model-launches-global-ai-filmmaking-competition/,AI動画生成,Alibaba/TechNode
+2026-07-03,"Google Gemini 3.5 Pro、6月の遅延を経て7月GAに向けてクリア——2Mトークン・Deep Think推論をVertex AI限定プレビューで公開中",https://www.techtimes.com/articles/319318/20260629/gemini-35-pro-cleared-july-launch-fable-5-nears-return-gpt-56-stays-locked.htm,AIモデル,Google/TechTimes
