@@ -434,3 +434,8 @@ date,title,url,category,source
 2026-07-22,"技人国ビザ対人業務に日本語N2が必須",,外国人材,出入国在留管理庁
 2026-07-22,"育成就労MOC—6か国と交渉中、制度開始まで9か月",,外国人材,外国人技能実習機構・外務省
 2026-07-22,"訪日2026年上半期2,100万人突破—中国激減で構造変化",,インバウンド,日本政府観光局・観光庁
+2026-07-23,"AMD Advancing AI 2026: Lisa Su基調講演でMI400全ラインナップとMI500ロードマップを発表——MicrosoftがAzureでHeliosラック初採用",https://www.datacenterdynamics.com/en/news/amd-unveils-full-mi400-product-lineup-claims-mi500-chips-will-deliver-1000x-increase-in-ai-performance/,AIインフラ/半導体,Data Center Dynamics
+2026-07-23,"MicrosoftとMistralが欧州AIインフラで数十億ドル規模の戦略提携を拡大——NvidiaのVera Rubin GPU数千基でオフライン展開も実現",https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/,AI企業/インフラ,Microsoft News
+2026-07-23,"Google「Frozen v2」チップ開発が報道——Geminiアーキテクチャをシリコンに直接刻み込みTPU比6〜10倍の推論効率を目指す",https://www.tomshardware.com/tech-industry/google-reportedly-developing-frozen-v2-chip-with-geminis-architecture-etched-into-the-silicon,AIインフラ/半導体,Tom's Hardware
+2026-07-23,"AnthropicとOpenAIがQ2 2026ロビー活動費で過去最高を更新——AnthropicはNvidiaを超える197万ドル支出",https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html,AI規制/政策,CNBC
+2026-07-23,"OpenAIが本日7月23日にCodexを含む13種の旧モデルを一斉廃止——10月にはGPT-4・o系列の大規模廃止も予定",https://community.openai.com/t/deprecation-notice-upcoming-model-shutdowns-in-2026/1379553,AIモデル,OpenAI Community
