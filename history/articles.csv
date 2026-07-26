@@ -466,3 +466,8 @@ date,title,url,category,source
 2026-07-26,"技人国審査厳格化3か月——カテゴリー3・4企業の新書類要件と実務課題",,外国人材,出入国在留管理庁
 2026-07-26,"外国人雇用の日本語教育支援助成金——厚労省2026年度制度の活用要点",,外国人材,厚生労働省
 2026-07-26,"外国人受入「量的管理」WGが始動——在留外国人の数値目標設定を本格検討",,外国人材,内閣官房
+2026-07-27,"Moonshot AI Kimi K3——史上最大2.8兆パラメータのオープンウェイトモデルが本日公開",https://www.techtimes.com/articles/321551/20260725/kimi-k3-open-weights-arrive-sunday-self-hosting-cuts-china-data-risk-api-never-can.htm,AIモデル/中国AI,TechTimes
+2026-07-27,"Anthropic Claude Opus 5リリース——FrontierBench v0.1で全モデル最高43.3%を達成",https://www.anthropic.com/news/claude-opus-5,AIモデル,Anthropic
+2026-07-27,"2026年米テック企業21社がAIを理由に大規模削減——Monday.com 20%・630人削減で節目に",https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/,AI労働市場,TechCrunch
+2026-07-27,"Google Threat Intelligence AIエージェントセキュリティをGA化——サイバー防衛の自動化が本格提供へ",https://pulse2.com/google-threat-intelligence-makes-agentic-ai-capabilities-generally-available/,AIセキュリティ,Pulse2
+2026-07-27,"MIT研究チームがAI有害コンテンツ生成能力を「出力なし」で検出する手法Gaussian Probingを発表",https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713,AI安全性,MIT
