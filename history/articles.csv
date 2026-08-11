@@ -554,3 +554,48 @@ date,title,url,category,source
 2026-08-06,"特定技能1号が令和8年3月末に40万人を突破",https://www.moj.go.jp/isa/applications/ssw/nyuukokukanri07_00215.html,外国人材,出入国在留管理庁
 2026-08-06,"2026年6月訪日外客が前年比6.8%減の315万人",https://www.jnto.go.jp/news/press/20260715_monthly.html,インバウンド,日本政府観光局（JNTO）
 2026-08-06,"技人国ビザにN2日本語要件、4月15日から施行",https://www.moj.go.jp/isa/applications/status/gijinkoku.html,外国人材,出入国在留管理庁
+2026-08-07,"Google DeepMind CEO Demis Hassabisが退任——後継はCTO Kavukcuoglu、AIリーダーシップを米国に集約",,AIリーダーシップ/人事,Bloomberg・Axios・9to5Google
+2026-08-07,"ホワイトハウスがフロンティアAI自主審査フレームワークを確定——内容は非公開",,AI規制/政策,Axios・CNN Business
+2026-08-07,"MetaがMuse Spark 1.2とコーディングエージェントMuse Codeを発表——OpenAI・Anthropicの牙城に挑戦",,AIモデル/開発ツール,Meta AI Research・Yahoo Finance
+2026-08-07,"企業の88%がAIエージェントのセキュリティインシデントを経験——Gravitee State of AI Agent Security 2026",,AIセキュリティ,Gravitee・VentureBeat
+2026-08-07,"AIタレント争奪戦の深刻化——Transformer共著者Shazeer→OpenAI、ノーベル賞Jumper→Anthropicに移籍",,AI人材/競争,Axios・The Rundown AI
+2026-08-07,"永住許可ガイドライン改定案 パブコメ開始",https://www.moj.go.jp/isa/11_00112.html,外国人材,出入国在留管理庁
+2026-08-07,"令和8年度最低賃金 13都道府県が答申",https://www.mhlw.go.jp/stf/newpage_74920.html,外国人材,厚生労働省・各都道府県
+2026-08-07,"特定技能 飲食料品製造業72%・建設67%逼迫",https://www.moj.go.jp/isa/applications/ssw/nyuukokukanri07_00215.html,外国人材,出入国在留管理庁
+2026-08-08,"AMDがAIモデル重みをシリコンに焼き込む推論専用チップスタートアップTaalasを買収——Nvidia比48倍の処理速度でデータセンター推論競争に参戦",https://www.bloomberg.com/news/articles/2026-08-06/advanced-micro-devices-to-buy-startup-taalas-for-new-ai-chips,AIインフラ/半導体,Bloomberg
+2026-08-08,"SunoがAI音楽4原則と音声透かし・ダウンロード制限を発表——著作権訴訟を受け業界自主規制に踏み出す",https://www.techradar.com/ai-platforms-assistants/great-music-is-made-by-people-suno-the-biggest-ai-music-company-is-finally-trying-to-solve-a-problem-its-own-success-helped-create,AI規制/著作権,TechRadar
+2026-08-08,"Palantir Q2 2026決算——売上+93%の19.35億ドル・米国商用+149%で年間ガイダンスを81.5億ドルに引き上げ",https://fortune.com/2026/08/03/palantir-earnings-guidance-beat-revenue-profit-ai-demand/,AIビジネス/決算,Fortune
+2026-08-08,"RipplingがAI支出管理ツール「AI Spend Console」を発表——R&D予算の40%がAIトークンに消費されると気づいた経験が契機",https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/,AI製品/企業,TechCrunch
+2026-08-08,"OpenAIが外国人優遇採用でDOJと320万ドルで和解——INA違反で米国人労働者保護イニシアチブ13件目の和解案件",https://www.axios.com/2026/08/04/trump-doj-openai-hiring-settlement,AI規制/法律,Axios
+2026-08-08,"特定在留カード、企業の在留確認実務が変わります",,外国人材,出入国在留管理庁
+2026-08-08,"令和8年度最低賃金答申が本格化、外国人雇用企業が今から備えるべきこと",,外国人材,厚生労働省・中央最低賃金審議会
+2026-08-08,"登録支援機関の要件厳格化、2027年4月施行へ準備を",,外国人材,法務省（改正入管法）
+2026-08-09,"OpenAIが次世代モデル「Astra」の開発を一時停止——史上初「Critical」サイバーセキュリティ閾値に到達",https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks,AIセキュリティ,Axios
+2026-08-09,"OpenAI「ChatGPT Atlas」が8月9日に終了——8か月でmacOS専用AIブラウザを廃止し機能をChatGPTへ統合",https://9to5mac.com/2026/08/04/openai-explains-what-will-happen-when-chatgpt-atlas-shuts-down-this-weekend/,AI製品,9to5Mac
+2026-08-09,"ChatGPTが週間ユーザー10億人突破——無料ユーザーにGPT-5.6 Luna無制限開放・Thinkボタンも追加",https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/,AIモデル/ユーザー,TechCrunch
+2026-08-09,"英国AISI「テストした全フロンティアAIが不正行為を試みた」——5モデルが評価中に規則外行動・半数以上が認めず",https://tech-insider.org/uk-aisi-frontier-ai-models-cheat-2026/,AIセキュリティ/評価,UK AISI
+2026-08-09,"Googleの伝説的エンジニアJeff Deanが27年の在籍を経て退社——AI研究者4名でスタートアップ「Discovery Loop」設立",https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/,AI人材/スタートアップ,TechCrunch
+2026-08-09,"育成就労 運用要領 17中7分野公表—9月1日申請開始まで3週間",https://www.otit.go.jp/employment_for_skill_development/,外国人材,外国人技能実習機構（OTIT）
+2026-08-09,"スリランカと育成就労MOC締結—二国間の適正受入れ基盤を整備",https://www.jitco.or.jp/,外国人材,JITCO・法務省・外務省
+2026-08-09,"令和8年版観光白書—宿泊業の人材確保と生産性向上を重点提言",https://www.mlit.go.jp/kankocho/news02_00092.html,インバウンド,観光庁
+2026-08-10,"AlibabaがQwen3.8-Maxのオープンウェイトを今週公開予定——2.4T最上位モデルを初オープンソース化",https://forkast.news/qwen3-8-max-the-capability-war-begins-alibaba-matches-us-closed-model-pricing-on-eve-of-open-weights-drop/,AIモデル/中国AI,Forkast News
+2026-08-10,"DeepSeek V4 ProのGA版が8月10〜20日にリリース見込み——V4 FlashはエージェントベンチでV4 Proを上回る",https://deepseekv4pro.com/news/deepseek-v4-ga-mid-august-release-window-harness-beta,AIモデル/中国AI,DeepSeek V4 Pro
+2026-08-10,"AnthropicがClaude専用AIチップ設計チームを新設——年収485000ドル超で半導体エンジニアを募集",https://www.forbes.com/sites/jonmarkman/2026/08/06/anthropic-enters-the-ai-chip-race-with-in-house-chip-team/,AIインフラ/半導体,Forbes
+2026-08-10,"MicrosoftのAIエージェントが4000万体到達——Copilot 3000万席と合わせエンタープライズAI最大規模",https://cloudwars.com/cloud-wars-minute/microsoft-hits-40-million-ai-agents-what-it-means-for-enterprise-ai/,AI市場/企業,Cloud Wars
+2026-08-10,"Claude Sonnet 5の特別価格が8月31日に終了——9月1日から実質コスト最大2倍の可能性",https://enterprisedna.co/resources/news/anthropic-claude-sonnet-5-pricing-deadline-cost-impact-2026/,AIモデル/価格,Enterprise DNA
+2026-08-10,"政府有識者会議 外国人受入れ量的管理を検討",,外国人材,内閣府外国人共生担当（報道段階）
+2026-08-10,"令和8年度最低賃金 22都道府県が答申",,外国人材,厚生労働省中央最低賃金審議会
+2026-08-10,"在留手数料 10月大幅値上げ2か月前—申請前倒しで費用を抑制",,外国人材,出入国在留管理庁
+2026-08-11,"MetaがMuse Glimmer 30Bをオープンウェイトで公開——Apache 2.0・24GB GPU対応のエージェント特化AI",https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/,AIモデル/オープンソース,Meta/MarkTechPost
+2026-08-11,"OpenAIがDaybreakをBlue・Redに拡張——サイバー防衛専用モデルGPT-5.6-Cyberを発表",https://www.cnbc.com/2026/08/10/open-ai-daybreak-cybersecurity.html,AIセキュリティ,OpenAI/CNBC
+2026-08-11,"AnthropicがMacquarie・GICと合弁でTheseus Infrastructure設立——Claude専用データセンターを米国で展開",https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers,AIインフラ/投資,Anthropic/Bloomberg
+2026-08-11,"OpenAI Astraの数学証明に研究不正疑惑——複数の数学者が先行研究の無断流用を指摘",https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/,AIガバナンス/学術,Scientific American
+2026-08-11,"AlibabaのQwen3.8-Maxのオープンウェイト公開——史上初のMax級2.4Tパラメータモデルが誰でも利用可能に",https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/,AIモデル/中国AI,Alibaba/MarkTechPost
+2026-08-11,"特定技能バス・タクシー 日本語A2.2認定が確定",https://www.mlit.go.jp/jidosha/jidosha_tk1_000038.html,外国人材,国土交通省
+2026-08-11,"永住許可厳格化に反対 市民団体が声明・抗議集会",https://migrants.jp/news/voice/20260807.html,外国人材,移住連・市民団体
+2026-08-11,"外国人受入の量的管理 政府有識者会議が議論を本格始動",https://www.cas.go.jp/jp/seisakukaigi/gaikokujinzai/index.html,外国人材,内閣官房
+2026-08-12,"Intel、AI需要急増で200億ドルの巨大公募増資——1971年上場以来初の株式売出しに1,000億ドル超の需要",https://qz.com/intel-stock-offering-20-billion-ai-chips-081126,AIインフラ/半導体,Bloomberg・CNBC
+2026-08-12,"TSMC7月売上が前年比44.7%増・145億ドル——AI半導体の爆発的需要が通期ガイダンスを40%超へ押し上げ",https://finance.yahoo.com/technology/ai/articles/tsmc-july-2026-revenue-jumps-110802277.html,AIインフラ/半導体,Yahoo Finance・CNBC
+2026-08-12,"Corma、防御的サイバーセキュリティAIに6,000万ドルのシード調達——AIが攻撃者88%成功・防御者12%の非対称性を解消へ",https://fortune.com/2026/08/10/exclusive-corma-raises-60-million-from-sequoia-for-ai-trained-to-defend-against-cyberattacks/,AIセキュリティ/投資,Fortune・Sequoia Capital
+2026-08-12,"GoogleがPixel 11を発表——新TensorチップでGemini Intelligenceをオンデバイス完結",https://www.androidauthority.com/pixel-11-launch-watch-3696245/,AI製品/スマートフォン,9to5Google・TechRadar
+2026-08-12,"ByteDance Seedance 2.5が開発者APIを公開——30秒単発AI動画＋音声同時生成",https://evolink.ai/blog/seedance-2-5-api-status,AIモデル/動画生成,ByteDance・EvoLink AI
