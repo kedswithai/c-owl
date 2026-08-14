@@ -620,3 +620,8 @@ date,title,url,category,source
 2026-08-14,"日本・インドネシア 特定技能MOCを6月25日から6ヶ月更新",,外国人材,法務省・外務省・厚生労働省・警察庁
 2026-08-14,"特定技能2号 在留5年省令改正 パブコメ締切まで3週間",,外国人材,出入国在留管理庁
 2026-08-14,"ミャンマー人材 来日遅延 在留認定証明書を6ヶ月に延長",,外国人材,出入国在留管理庁
+2026-08-15,"GoogleがGemini 3.7 Flashを公開——AnthropicとOpenAIを9ベンチで上回り、初期価格は前モデル比半額",https://www.bloomberg.com/news/articles/2026-08-13/google-debuts-new-gemini-flash-while-top-ai-model-still-delayed,AIモデル/Google,Bloomberg
+2026-08-15,"OpenAIがGPT-5.6 Sol「Ultrafastモード」をプレビュー公開——Cerebrasチップで最大14倍高速化・毎秒750トークン",https://openai.com/index/previewing-ultrafast/,AIモデル/推論速度,OpenAI/Cerebras
+2026-08-15,"DeepSeekがV4 Pro GA版（0813）を正式公開——4ヶ月プレビュー終了、8月16日に新価格体系移行",https://api-docs.deepseek.com/news/news260813/,AIモデル/中国AI,DeepSeek
+2026-08-15,"Appleが中国向け独自LLMを開発——Alibabaが支援、第三者モデル依存から初の脱却",https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/,AI戦略/地政学,Reuters/MacRumors
+2026-08-15,"Z.aiがGLM-5.3を公開——744Bパラメータ維持のままポストトレーニングのみで全能力向上、CyberGym首位",https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/,AIモデル/中国AI,MarkTechPost/SiliconANGLE
