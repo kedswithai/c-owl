@@ -636,3 +636,8 @@ date,title,url,category,source
 2026-08-16,"育成就労計画申請9/1—郵送のみ・費用不明・10分野要領なし",,外国人材,外国人技能実習機構（OTIT）・出入国在留管理庁
 2026-08-16,"永住許可改定案—世帯収入基準と2026年4月遡及の実務影響",,外国人材,出入国在留管理庁
 2026-08-16,"特定技能2号「在留5年」は選択肢追加—上限でない点に注意",,外国人材,出入国在留管理庁
+2026-08-17,"GoogleがHEIR公開——暗号化データのままAI推論を可能にするOSSコンパイラ",https://northeasttimes.com/2026/08/15/google-releases-open-source-tool-to-run-ai-on-encrypted-data/,AIインフラ/プライバシー,Google/Northeast Times
+2026-08-17,"OpenAIがChatGPT Businessにプレミアムシートを導入——月額125ドルで5時間制限を撤廃",https://openai.com/index/premium-seats-chatgpt-business/,AIビジネス/製品,OpenAI
+2026-08-17,"Google Gemini SparkがリアルChromeを直接操作——ログイン済みアカウントで自律タスクを実行",https://www.dataconomy.com/2026/08/04/google-chrome-browsing-gemini-spark-us-rollout/,AIエージェント/製品,Google/Dataconomy
+2026-08-17,"AIミーティングアシスト「tl;dv」でFirestore設定ミスにより18万件超の会議記録が7ヶ月間流出",https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls,AIセキュリティ,Dark Reading
+2026-08-17,"GoogleがImagen 4 APIを本日8月17日に完全終了——開発者はGemini画像モデルへの移行が必須",https://ai.google.dev/gemini-api/docs/models/imagen,AIモデル/API,Google AI for Developers
