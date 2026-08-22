@@ -684,3 +684,8 @@ date,title,url,category,source
 2026-08-22,"育成就労計画申請9/1開始——10分野の分野別運用要領が未公表",,外国人材,出入国在留管理庁・厚生労働省・OTIT
 2026-08-22,"特定技能「外食業」新規受入停止4ヶ月——再開未定",,外国人材,出入国在留管理庁
 2026-08-22,"2026年度最低賃金 地方答申が加速——外国人多雇用業種に影響",,外国人材,厚生労働省中央最低賃金審議会
+2026-08-23,"OpenAIがGPT-5.6 Sol APIを最大33%値下げ——競争激化で価格コモディティ化が加速",https://www.business-standard.com/technology/tech-news/openai-cuts-developer-pricing-for-gpt-5-6-sol-model-by-more-than-20-126082200107_1.html,AIモデル/価格,Business Standard
+2026-08-23,"Microsoft Copilot CoSnitch脆弱性CVE-2026-24301——1クリックでGmail・Driveのデータが丸ごと流出",https://gbhackers.com/critical-microsoft-copilot-cosnitch-flaw/,AIセキュリティ,GBHackers/Varonis
+2026-08-23,"Pew Research調査——ChatGPT登場以降のウェブページの35%がAI生成と判定",https://www.androidheadlines.com/2026/08/one-in-three-new-web-pages-show-signs-of-ai-writing-pew-study-finds.html,AI社会影響,Android Headlines/TechCrunch
+2026-08-23,"ペンシルベニア州知事がAIデータセンター開発を規制——地域住民承認・電力全額負担を義務化",https://thehill.com/policy/technology/6037158-shapiro-signs-ai-data-center-order/,AI規制/インフラ,The Hill/Philadelphia Inquirer
+2026-08-23,"CloudflareがAIエージェント専用ブラウザ「Kitesurf」を公開——Chromium比3〜7倍軽量・x402で自律決済",https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/,AIインフラ/エージェント,TechCrunch/Cloudflare
