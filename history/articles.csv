@@ -1,4 +1,3 @@
-date,title,url,category,source
 2026-05-29,"Anthropic、$30B調達で評価額$900B超へ - OpenAIを逆転か",https://www.bloomberg.com/news/articles/2026-05-22/anthropic-to-close-over-30-billion-round-as-soon-as-next-week,AI企業,Bloomberg
 2026-05-29,"Google I/O 2026：Gemini 3.5 Flash・Gemini Spark・Omniモデルを一挙発表",https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud,AI製品,Google Cloud Blog
 2026-05-29,"Apple、iOS 27でサードパーティAIを選択可能に - Gemini・ClaudeをSiriに統合へ",https://9to5mac.com/2026/05/05/ios-27-will-let-you-choose-between-gemini-claude-and-more-for-ai-features-report/,AI製品,9to5Mac
@@ -689,3 +688,6 @@ date,title,url,category,source
 2026-08-23,"Pew Research調査——ChatGPT登場以降のウェブページの35%がAI生成と判定",https://www.androidheadlines.com/2026/08/one-in-three-new-web-pages-show-signs-of-ai-writing-pew-study-finds.html,AI社会影響,Android Headlines/TechCrunch
 2026-08-23,"ペンシルベニア州知事がAIデータセンター開発を規制——地域住民承認・電力全額負担を義務化",https://thehill.com/policy/technology/6037158-shapiro-signs-ai-data-center-order/,AI規制/インフラ,The Hill/Philadelphia Inquirer
 2026-08-23,"CloudflareがAIエージェント専用ブラウザ「Kitesurf」を公開——Chromium比3〜7倍軽量・x402で自律決済",https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/,AIインフラ/エージェント,TechCrunch/Cloudflare
+2026-08-23,"特定技能2号 業務内容誓約書が8月20日から必須化",https://www.moj.go.jp/isa/applications/ssw/nyuukokukanri07_00201.html,外国人材,出入国在留管理庁
+2026-08-23,"育成就労「外食業」9月1日申請前の実務ポイント",https://www.otit.go.jp/employment_for_skill_development/category/,外国人材,出入国在留管理庁・厚生労働省・農林水産省・OTIT
+2026-08-23,"永住許可パブコメ 締切9月4日まで残り12日",https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html,外国人材,出入国在留管理庁
