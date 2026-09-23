@@ -892,3 +892,8 @@
 2026-09-23,"JESTA創設——ビザ免除74ヵ国の渡航前認証が義務化へ",,インバウンド/外国人材,法務省・出入国在留管理庁
 2026-09-23,"特定活動46号 対象拡大——パブコメ終了で年内施行へ",,外国人材/在留資格,出入国在留管理庁
 2026-09-23,"特定技能 新3分野追加8ヵ月——物流倉庫・リネンサプライ・資源循環の受入準備",,外国人材/特定技能,出入国在留管理庁
+2026-09-24,"AnthropicがClaude Opus 5.5を発表——コスト40%減・速度30%向上でFable 5.1水準の性能を実現",https://www.anthropic.com/claude-opus-5-5,AIモデル/製品,Anthropic
+2026-09-24,"XiaomiがオープンウェイトモデルMiMo-V2.6を公開——Grok 4.7と並ぶ性能でClaude Opus 5超えをMITライセンスで提供",https://siliconangle.com/2026/09/22/xiaomi-introduces-mimo-v2-6-series-open-source-ai-model-family/,AIモデル/OSS,SiliconAngle/Xiaomi
+2026-09-24,"GoogleがGemini 3.8 Flash TTSを発表——30秒の音声から声クローン・2000超プリセット音声対応",https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/,AIモデル/音声,Google
+2026-09-24,"Cisco TalosがAI自律C2マルウェアCLOSEDQUORUMを解析公開——4つのLLMが投票制で攻撃行動を決定",https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/,AIセキュリティ,Cisco Talos
+2026-09-24,"AstroForgeが独自AI「Solo」で完全自律宇宙船Autonomy-1を開発——地球からの命令ゼロで小惑星採掘へ",https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/,AI応用/宇宙,TechCrunch/AstroForge
