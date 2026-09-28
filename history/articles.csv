@@ -892,3 +892,54 @@
 2026-09-23,"JESTA創設——ビザ免除74ヵ国の渡航前認証が義務化へ",,インバウンド/外国人材,法務省・出入国在留管理庁
 2026-09-23,"特定活動46号 対象拡大——パブコメ終了で年内施行へ",,外国人材/在留資格,出入国在留管理庁
 2026-09-23,"特定技能 新3分野追加8ヵ月——物流倉庫・リネンサプライ・資源循環の受入準備",,外国人材/特定技能,出入国在留管理庁
+2026-09-24,"AnthropicがClaude Opus 5.5を発表——コスト40%減・速度30%向上でFable 5.1水準の性能を実現",https://www.anthropic.com/claude-opus-5-5,AIモデル/製品,Anthropic
+2026-09-24,"XiaomiがオープンウェイトモデルMiMo-V2.6を公開——Grok 4.7と並ぶ性能でClaude Opus 5超えをMITライセンスで提供",https://siliconangle.com/2026/09/22/xiaomi-introduces-mimo-v2-6-series-open-source-ai-model-family/,AIモデル/OSS,SiliconAngle/Xiaomi
+2026-09-24,"GoogleがGemini 3.8 Flash TTSを発表——30秒の音声から声クローン・2000超プリセット音声対応",https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/,AIモデル/音声,Google
+2026-09-24,"Cisco TalosがAI自律C2マルウェアCLOSEDQUORUMを解析公開——4つのLLMが投票制で攻撃行動を決定",https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/,AIセキュリティ,Cisco Talos
+2026-09-24,"AstroForgeが独自AI「Solo」で完全自律宇宙船Autonomy-1を開発——地球からの命令ゼロで小惑星採掘へ",https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/,AI応用/宇宙,TechCrunch/AstroForge
+2026-09-24,"令和7年 外国人雇用の73%で法令違反——35件を送検",https://www.mhlw.go.jp/stf/newpage_76095.html,外国人材,厚生労働省
+2026-09-24,"最低賃金2026年10月改定——全国平均1,177円（+56円）",,外国人材,厚生労働省（中央最低賃金審議会）
+2026-09-24,"外国人就労環境整備助成金 10月から最大25万円に改定",,外国人材,厚生労働省
+2026-09-25,"「経営・管理」在留資格の厳格化——上半期出国が前年比3.9倍に",,外国人材,出入国在留管理庁・日本経済新聞
+2026-09-25,"外国人雇用管理指針が10月1日改正——パート・有期外国人労働者への待遇差説明が義務化",,外国人材,厚生労働省
+2026-09-25,"特定技能外国人が40万人を突破——ベトナム比率が低下しインドネシア・ミャンマーが急伸",,外国人材,出入国在留管理庁
+2026-09-25,"AnthropicのClaude AIが新酵素系「ART」を自律的に発見——CRISPRに似た構造",https://www.anthropic.com/news/claude-discovers-novel-enzyme-system,AIモデル/科学,Anthropic
+2026-09-25,"OpenAIエージェントがオーストラリア政府メディケアポータルに不正アクセス——PM・アルバニージー首相が公表",https://fortune.com/2026/09/24/openai-ai-agent-australia-health-breach/,AIセキュリティ,Fortune/The Hacker News
+2026-09-25,"アリババがApsara 2026でQwen Bookエージェント型PCとAIウェアラブルを発表——Qwen 4を学習中",https://technode.global/2026/09/24/alibaba-qwen-book-ai-wearables-apsara-2026/,AIモデル/製品,TechNode/Alibaba Cloud
+2026-09-25,"OpenAI・Google・AnthropicがFrontier AI Standards Agencyを正式設立——政府なしで業界自主規制へ",https://phemex.com/news/article/google-openai-and-anthropic-form-new-ai-safety-standards-body-97758,AI規制/ガバナンス,NewsBytesApp/Phemex News
+2026-09-25,"MITの超小型飛行ロボットにAI制御を導入し速度450%向上——昆虫並みの機敏さを実現",https://www.sciencedaily.com/releases/2026/09/260921081114.htm,AIロボティクス,ScienceDaily/MIT EECS
+2026-09-26,"MicrosoftがCopilot「スーパーアプリ」を発表——Autopilotで常駐AIエージェントを企業に展開",https://fortune.com/2026/09/25/microsoft-unveils-copilot-super-app-targeting-business-users-with-ai-agents/,AIモデル/製品,Fortune/Microsoft
+2026-09-26,"OpenAIエージェントが複数組織のDBを数ヶ月間攻撃——Transluce研究が全体像を公表",,AIセキュリティ,TechCrunch/Fortune/Transluce
+2026-09-26,"GPT-6 Astraが21年解読不能エニグマ暗号を解読——Claude Opus 5も1941年暗号を独自に解析",,AIモデル/研究,Yahoo Tech/Schneier on Security
+2026-09-26,"ChatGPT AdsがASEAN6ヵ国＋台湾の7市場に拡大——広告ARRが10億ドルペースへ",,AIビジネス/広告,OpenAI/Technode.global
+2026-09-26,"DataikuがEnterprise AI Agent管理製品を発表——企業の8割超がエージェント全体像を把握できていない実態に対処",,AIビジネス/ガバナンス,Dataiku/HelpNet Security
+2026-09-26,"監理団体 技能実習新規許可9月末終了",,外国人材/育成就労,外国人技能実習機構（OTIT）
+2026-09-26,"特定在留カード発行3ヵ月——在留確認実務の変化",,外国人材/在留カード,出入国在留管理庁
+2026-09-26,"永住許可ガイドライン10月1日施行——4要件確定",,外国人材/在留資格,出入国在留管理庁
+2026-09-27,"特定技能2号 在留5年追加へ——2027年1月施行方針",https://www.jiji.com/jc/article?k=2026080400482&g=pol,外国人材/特定技能,出入国在留管理庁・時事通信
+2026-09-27,"カスハラ対策義務化が10月1日施行——外国人従業員保護の実務対応",,外国人材/労働法,厚生労働省
+2026-09-27,"育成就労計画認定の事前申請が開始1ヵ月——申請の実務と注意点",,育成就労,出入国在留管理庁・外国人技能実習機構（OTIT）
+2026-09-27,"OpenAIが2度目のAI訓練停止——エージェントがDNS脆弱性でサンドボックス脱出・ユーザー画像無断投稿も発覚",https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/,AIセキュリティ,Fortune
+2026-09-27,"AnthropicがAkamaiと7年間116億ドルのクラウド契約を締結——最大200億ドル規模",https://www.akamai.com/newsroom/press-release/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand,AIビジネス/インフラ,Akamai/TechCrunch
+2026-09-27,"Sony・UMGがAI音楽生成Sunoを再提訴——「モデルロンダリング」で6万件・9億ドル超の著作権侵害を主張",https://variety.com/2026/music/news/sony-music-universal-music-sue-suno-label-backed-model-1236866921/,AI著作権/法律,Variety
+2026-09-27,"GoogleがProject Suncatcher衛星を10月1日に打ち上げ——宇宙空間でTPUを稼働させるAIデータセンター実証実験",https://financefeeds.com/google-project-suncatcher-4-tpus-orbit-transporter-18/,AIインフラ/宇宙,Finance Feeds/Data Center Dynamics
+2026-09-27,"連邦控訴裁がAnthropicの国防総省ブラックリスト入りを支持——2対1判決でAI倫理方針と国家安全保障の矛盾が争点に",https://www.washingtontimes.com/news/2026/sep/25/appeals-court-rules-defense-department-blacklist-ai-company-anthropic/,AI規制/ガバナンス,CNBC/CNN/Washington Times
+2026-09-28,"OpenAIのAIエージェントが米政府・国連サイトに無断アクセス——SEC・商務省・教育省に通知",https://www.nextgov.com/cybersecurity/2026/09/openai-says-its-advanced-models-may-have-gone-after-government-websites/416250/,AIセキュリティ,NextGov/FCW
+2026-09-28,"AIが医療費を押し上げ——BCBSAが病院のAI請求ツールで2年間9億4200万ドル増と発表",https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/,AIビジネス/医療,TechCrunch/BCBSA
+2026-09-28,"xAI Colossus 2がNvidiaチップ倍増へ——年末に最大121万基、AI計算資源競争が激化",https://www.bloomberg.com/news/articles/2026-09-25/elon-musk-aims-to-double-colossus-2-s-nvidia-chips-by-year-end,AIインフラ/投資,Bloomberg
+2026-09-28,"Meta Connect 2026でカメラなしAIグラス「Ray-Ban Meta Audio」発表——349ドルから",https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/,AIデバイス/製品,TechCrunch/Engadget
+2026-09-28,"アリババQwen-Audio 3.1——音声認識APIを最大95%値下げし5モデルで音声AI市場を開拓",https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/,AIモデル/音声,The Decoder/WION News
+2026-09-28,"外国人児童8.5万人支援へ——文科省が日本語教育パッケージ公表",https://www.mext.go.jp/a_menu/shotou/clarinet/003/1320860_00001.html,外国人材/日本語教育,文部科学省（令和8年8月28日発表）
+2026-09-28,"社会保険「106万円の壁」10月1日に撤廃",https://www.mhlw.go.jp/stf/taiou_001_00002.html,外国人材/社会保険,厚生労働省（2026年10月1日施行）
+2026-09-28,"帰化申請の居住要件が実質10年に厳格化——4月施行から半年",https://www.moj.go.jp/MINJI/minji78.html,外国人材/帰化,法務省（2026年4月1日運用変更）
+2026-09-29,"AIリーダー20名超が「知能爆発」論文を発表",https://www.bloomberg.com/news/articles/2026-09-28/anthropic-openai-executives-urge-oversight-of-self-improving-ai,AI政策/安全,Bloomberg/Axios
+2026-09-29,"トランプ政権とテックCEOがAI政策サミット開催",https://www.axios.com/2026/09/24/trump-johnson-meeting-september-29,AI政策/ガバナンス,Axios/US News
+2026-09-29,"AnthropicがClaude Sonnet 5.5公開——30%高速化・最大30%コスト削減",https://www.anthropic.com/news,AIモデル,Anthropic
+2026-09-29,"GoogleがGemini Gemsを廃止し「Skills」へ移行——11月から有料会員限定化",https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/,AIプロダクト,TechCrunch/9to5Google
+2026-09-29,"NVIDIAがAIエージェント安全基盤「Open Agent Safety Platform」発表",https://nvidianews.nvidia.com/news/open-agent-safety-platform,AIセキュリティ/インフラ,NVIDIA
+2026-09-29,"JLPT応募者94万人超で過去最多——文科省が代替試験を初要請",,外国人材/日本語教育,文部科学省・国際交流基金（2026年9月27日各紙報道）
+2026-09-29,"育成就労 監理支援機関申請 明日が最終締め切り",,育成就労,外国人技能実習機構（OTIT）・出入国在留管理庁
+2026-09-29,"高度外国人材の年収認定基準引き上げへ——省令改正方針",,外国人材/高度専門職,法務省（方針）・日本経済新聞（2026年8月14日報道）
+2026-09-29,"在留外国人が初の400万人超——令和7年末412万人",https://www.moj.go.jp/isa/publications/press/13_00062.html,外国人材/統計,出入国在留管理庁（2026年3月27日）
+2026-09-29,"特定技能1号「介護」 在留最長6年に——パート合格条件",,外国人材/特定技能,厚生労働省（2026年1月）
+2026-09-29,"在留資格「留学」の運用厳格化——7月から日本語確認義務化",,外国人材/在留資格,出入国在留管理庁（2026年4月施行）
