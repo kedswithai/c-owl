@@ -1,8 +1,11 @@
 name: Send Daily c-owl News Email
 
 on:
-  schedule:
-    - cron: "30 22 * * *"
+  # 記事が公開された直後に送信する（cron の時刻と生成完了時刻の競合を避けるため）
+  push:
+    branches: [main]
+    paths:
+      - 'news/**'
   workflow_dispatch:
 
 jobs:
