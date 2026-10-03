@@ -1,11 +1,15 @@
 name: Daily c-owl News Pipeline
 
-# 外国人材ニュースの収集 → ファクトチェック → advocate → 公開までを通しで実行する。
-# 仕様は CLAUDE.md、指示文は prompts/news-pipeline.md。
+# 外国人材ニュースの収集 → ファクトチェック → advocate → 公開 → メール送信までを
+# 1ジョブで通して実行する。仕様は CLAUDE.md、指示文は prompts/news-pipeline.md。
 #
 # 旧構成（claude.ai のクラウドルーティン）では実行環境のエグレスプロキシにより
 # 政府サイトへの WebFetch が全面的に遮断され、出典URLの裏取りができなかった。
 # GitHub Actions のランナーからは到達できることを確認済み（2026-10-03）。
+#
+# メール送信を別ワークフロー（daily-news-email.yml）への push 連鎖に頼らず
+# 同じジョブに持つのは、連鎖起動のために PAT が必要になり、その期限切れで
+# パイプライン全体が止まるため。管理する認証情報を減らす判断。
 
 on:
   schedule:
@@ -16,6 +20,9 @@ concurrency:
   group: daily-news
   cancel-in-progress: false
 
+permissions:
+  contents: write # GITHUB_TOKEN で main に push するために必要
+
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -25,10 +32,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # GITHUB_TOKEN による push は他のワークフローを起動しない仕様のため、
-          # news/** への push で動く daily-news-email.yml が発火しない。
-          # メール配信を維持するために PAT を使う。
-          token: ${{ secrets.PAT }}
           fetch-depth: 0
 
       - name: Setup Node
@@ -55,21 +58,24 @@ jobs:
 
       - name: Ensure today's file exists
         # パイプラインが落ちても news/$DATE.md は必ず残す。
-        # このファイルの push がメール配信のトリガーなので、
-        # 作られないと「失敗したこと自体」が誰にも伝わらない。
+        # 0件は異常ではないが、0件であることが伝わらないのは異常。
+        # git identity をこのステップ内でも設定するのは、前段のステップが
+        # スキップされた場合（= パイプラインが動かなかった場合）にこそ
+        # このステップが必要になるため。
         if: always()
         run: |
+          set -u
           DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
-          git pull --rebase origin main || git rebase --abort || true
+          git config user.email "agent@c-owl.jp"
+          git config user.name "c-owl News Agent"
 
-          if [ -f "news/$DATE.md" ]; then
-            echo "news/$DATE.md は作成済みです。セーフティネットは何もしません。"
-            exit 0
-          fi
-
-          echo "news/$DATE.md が存在しません。失敗記録を作成します。"
-          mkdir -p news
-          cat > "news/$DATE.md" <<EOF
+          # 生成物を失わないよう reset --hard は使わない。
+          # パイプラインが「生成はしたが push する前に落ちた」場合、
+          # それを捨てずに拾い上げるのがこのステップの役目でもある。
+          if [ ! -f "news/$DATE.md" ]; then
+            echo "news/$DATE.md が存在しません。失敗記録を作成します。"
+            mkdir -p news
+            cat > "news/$DATE.md" <<EOF
           # c-owl 外国人材ニュース $DATE
 
           ## 本日の公開記事: 0件（目標6件）
@@ -83,7 +89,28 @@ jobs:
 
           本日公開できる記事はありません。
           EOF
+          fi
 
-          git add "news/$DATE.md"
-          git commit -m "publish: news $DATE (0/6 — pipeline produced no output)"
-          git push origin HEAD:main
+          # 未コミットの成果物が残っていれば拾う（対象ディレクトリを限定する）
+          if [ -n "$(git status --porcelain -- news drafts history)" ]; then
+            git add -A news drafts history
+            git commit -m "publish: news $DATE (safety net)"
+          fi
+
+          git pull --rebase origin main || true
+
+          if [ -n "$(git log origin/main..HEAD --oneline)" ]; then
+            git push origin HEAD:main
+          else
+            echo "push すべき差分はありません（パイプラインが push 済み）。"
+          fi
+
+      - name: Send email
+        # 記事があってもなくても必ず送る。0件の日こそ理由を届ける必要がある。
+        # 直前のステップで news/$DATE.md の存在は保証されている。
+        if: always()
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
+          python3 scripts/send_email.py news "[c-owl] 外国人材ニュース" "$DATE"
