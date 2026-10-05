@@ -7,8 +7,10 @@ date = sys.argv[3]
 filepath = f"{folder}/{date}.md"
 
 if not os.path.exists(filepath):
-    print(f"No file: {filepath}")
-    sys.exit(0)
+    # exit(0) だとファイル不在でもワークフローが success になり、
+    # メールが届かないことに気づけない。失敗として可視化する。
+    print(f"ERROR: No file: {filepath}")
+    sys.exit(1)
 
 with open(filepath) as f:
     body = f.read()
