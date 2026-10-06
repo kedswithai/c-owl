@@ -993,3 +993,8 @@
 2026-10-06,"OpenAIがChatGPTにビジュアル広告フォーマット導入——動的CTA・商品カルーセルが画像生成中に表示",https://openai.com/index/new-chatgpt-ads-format-and-measurement/,AIビジネス/広告,OpenAI
 2026-10-06,"AnthropicがIPO前投資家ミーティングを10月14日に設定——Goldman Sachs主幹事で11月上場目指す",https://neuronfeed.com/news/anthropic-schedules-investor-meetings-for-potential-965-billion-ipo,AIビジネス/IPO,Bloomberg
 2026-10-06,"MIT Technology ReviewがAI「普及率のパラドックス」報告——利用73%でも社会好影響期待は16%のみ",https://technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026,AI調査/研究,MIT Technology Review
+2026-10-07,"MistralがオープンウェイトモデルLarge 4「le Chonk」を公開——1.05兆パラメータMoEでエージェント・サイバー性能をリード",https://mistral.ai/news/mistral-large-4/,AIモデル/OSS,Mistral AI
+2026-10-07,"AnthropicがCyber Verification Programを3層構造に拡張——Opus 5.5・Mythos 5.1にアクセス、4ヶ月で12.9万件の脆弱性発見",https://www.anthropic.com/news/cyber-verification-program,AIセキュリティ/ガバナンス,Anthropic
+2026-10-07,"Reflection AIが501BパラメータのオープンウェイトMoE「Beam」を正式公開——Apache 2.0、10月末に重み配布",https://siliconangle.com/2026/10/05/reflection-ai-debuts-open-source-beam-model-with-501b-parameters/,AIモデル/OSS,SiliconAngle/Reflection AI
+2026-10-07,"AnthropicがClaude CodeにTypeScript「Mods」を導入——プロンプト書き換え・UI差し替えをフックで実現",https://aiweekly.co/alerts/anthropic-launches-claude-code-mods-typescript-agent-hooks,AIツール/開発,AI Weekly/Anthropic
+2026-10-07,"Google DeepMindがAI設計タンパク質の不可視透かし技術「SynthID Bio」をNature誌に発表——機能を損なわずバイオセキュリティを強化",https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/,AIモデル/研究,Google DeepMind
