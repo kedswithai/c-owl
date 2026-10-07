@@ -998,3 +998,8 @@
 2026-10-07,"Reflection AIが501BパラメータのオープンウェイトMoE「Beam」を正式公開——Apache 2.0、10月末に重み配布",https://siliconangle.com/2026/10/05/reflection-ai-debuts-open-source-beam-model-with-501b-parameters/,AIモデル/OSS,SiliconAngle/Reflection AI
 2026-10-07,"AnthropicがClaude CodeにTypeScript「Mods」を導入——プロンプト書き換え・UI差し替えをフックで実現",https://aiweekly.co/alerts/anthropic-launches-claude-code-mods-typescript-agent-hooks,AIツール/開発,AI Weekly/Anthropic
 2026-10-07,"Google DeepMindがAI設計タンパク質の不可視透かし技術「SynthID Bio」をNature誌に発表——機能を損なわずバイオセキュリティを強化",https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/,AIモデル/研究,Google DeepMind
+2026-10-08,"AIコーディングエージェントが増幅するnpmサプライチェーン攻撃「MALFEX」——14ヶ月・40,000DL超の悪意キャンペーンが発覚",https://hackread.com/malfex-npm-windows-rat-steals-discord-browser-data/,AIセキュリティ,HackRead/CloudSEK
+2026-10-08,"光学AIチップで15動画を同時解析、ディープフェイク検出精度97.79%——UCLAが省エネ光-ニューラル融合技術を発表",https://sciencedaily.com/releases/2026/09/260929053534.htm,AI研究,ScienceDaily/eLight
+2026-10-08,"NVIDIAが出資するGPUクラウドLambdaがIPO前に30億ドル超の調達協議——評価額120億ドル以上・2027年上場が有力",https://aiweekly.co/alerts/nvidia-backed-lambda-in-talks-for-3b-pre-ipo-round-at-12b-valuation-as-2026,AIビジネス/投資,Bloomberg/AI Weekly
+2026-10-08,"OracleがAIエージェントの推論と実行を分離する「Fusion Claw」を発表——企業向け75業務プロセスに自律型AIを展開",https://www.oracle.com/news/announcement/oracle-extends-fusion-agentic-applications-with-introduction-of-fusion-claw-2026-09-29/,AIビジネス/製品,Oracle
+2026-10-08,"英FCAが「フロンティアAIは脆弱性発見を企業の対応能力を超えるスピードで加速させている」と警告——金融機関に統治強化を要求",https://techinsights.linklaters.com/post/102o0la/uk-fca-tells-firms-to-prepare-for-vulnerability-wave-in-response-to-frontier-ai,AI規制/セキュリティ,Linklaters/FCA
