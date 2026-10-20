@@ -1066,3 +1066,8 @@
 2026-10-20,"Google DeepMindのGemini 4 Argonエージェント4体がMinecraftを27時間で完全クリア",https://digg.com/tech/e8zpw5f2,AIエージェント/研究,Digg/AI Weekly
 2026-10-20,"ドイツ政府とNvidiaがAI協力協定を締結——産業AI・物理AIに数億ユーロ投入",https://www.tikr.com/blog/germany-confirms-its-nvidia-ai-deal-will-any-of-huangs-2-billion-europe-pledge-land-in-berlin,AIビジネス/政策,TIKR/Reuters
 2026-10-20,"出入国在留管理庁、特定技能・育成就労の分野別運用方針に関する第15回有識者会議を開催",https://www.moj.go.jp/isa/03_00204.html,外国人材/特定技能・育成就労,出入国在留管理庁（2026年10月19日）
+2026-10-21,"AnthropicのClaudeがサソリ毒バインダー318,484件を自律設計——17件で結合確認しScience誌掲載",https://www.anthropic.com/research/claude-scorpion-toxin-binder-design,AIモデル/バイオ研究,Anthropic
+2026-10-21,"DeepSeekが本番推論フレームワーク「DeepInfer」をApache 2.0でオープンソース公開",https://github.com/deepseek-ai/DeepInfer,AIモデル/OSS,GitHub/DeepSeek
+2026-10-21,"Character.AI破産申請後、DisneyがIP取得へ20百万ドル仮落札——スタッフ66人に雇用提示",https://letsdatascience.com/news/disney-offers-jobs-to-66-characterai-employees-ff9444bc,AIビジネス/買収,LetsDataScience/複数ソース
+2026-10-21,"TenstorrentがシリーズE15億ドル調達完了——評価額62億ドルでNvidia対抗AIチップ事業を加速",https://tenstorrent.com/en/newsroom/tenstorrent-announces-series-e,AIチップ/資金調達,Tenstorrent/Yahoo Finance/Crunchbase
+2026-10-21,"MiniMax M3.1 Flash（GA）が正式リリース——100万トークンコンテキスト・推論5段階対応",https://www.llmreference.com/model/minimax-m3-1-flash-preview,AIモデル/リリース,LLM Reference/LLM Gateway
