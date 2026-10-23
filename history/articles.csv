@@ -1083,3 +1083,8 @@
 2026-10-23,"元OpenAI CPO Kevin Weil氏の科学研究自動化スタートアップWarp Sciencesが正式ローンチ——2.15億ドル調達",https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/,AIビジネス/スタートアップ,TechCrunch
 2026-10-23,"1Password、AIエージェントがパスワードを参照せずにログインできる機能を提供開始",https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/,AIエージェント/セキュリティ,TechCrunch
 2026-10-23,"OpenAI、意思決定特化API Decisions APIを全開発者向けに一般提供GA開始——GPT-6 Luna搭載",https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/,AIモデル/API,TechCrunch
+2026-10-24,"Google CloudがClaude Anthropicマネージドデプロイメントオプションを一般提供開始",https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud,AIビジネス/クラウド,Google Cloud
+2026-10-24,"AIがPHPの重大脆弱性PHP2Shell（CVSS 9.2）を発見——世界のウェブサイト約70%に影響",https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619,AIセキュリティ,Google Cloud/Wiz Research
+2026-10-24,"MicrosoftのAIが31年来の未解決数学問題KLS予想の証明に成功",https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/,AI研究/数学,Microsoft Research
+2026-10-24,"Anthropicが生命科学分野のゲスト調査員を公募——学術研究者とClaudeの共同研究プログラム",https://www.anthropic.com/news/open-call-guest-investigators-life-sciences,AIビジネス/科学,Anthropic
+2026-10-24,"Microsoft Researchがインタラクティブデータ可視化言語Flint-interactiveを発表",https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/,AIツール/開発,Microsoft Research
