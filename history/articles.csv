@@ -1088,3 +1088,8 @@
 2026-10-24,"MicrosoftのAIが31年来の未解決数学問題KLS予想の証明に成功",https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/,AI研究/数学,Microsoft Research
 2026-10-24,"Anthropicが生命科学分野のゲスト調査員を公募——学術研究者とClaudeの共同研究プログラム",https://www.anthropic.com/news/open-call-guest-investigators-life-sciences,AIビジネス/科学,Anthropic
 2026-10-24,"Microsoft Researchがインタラクティブデータ可視化言語Flint-interactiveを発表",https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/,AIツール/開発,Microsoft Research
+2026-10-25,"Google Cloud、AIエージェント専用コンピューティング基盤「Agent Compute Engine」を発表",https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance,AIインフラ/エージェント,Google Cloud
+2026-10-25,"Google CloudとNVIDIA、GTC BerlinでVera Rubin A5X基盤を発表——最大96万GPU規模に",https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026,AIインフラ/ハードウェア,Google Cloud/NVIDIA
+2026-10-25,"物理学者クリストファー・スタッブス氏がAnthropicのLong-Term Benefit Trustに参加",https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust,AIガバナンス/安全,Anthropic
+2026-10-25,"Google Antigravity（AI開発ツール）でClaude Opus 5.5とSonnet 5.5が利用可能に",https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity,AIツール/開発,Google Cloud/Anthropic
+2026-10-25,"Google CloudがAIエージェント向け分散推論OSS「llm-d 1.0」をリリース",https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference,AIインフラ/OSS,Google Cloud
