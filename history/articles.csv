@@ -1150,3 +1150,8 @@
 2026-11-05,"AnthropicがClaude Codeのゲームクローン制限を展開——正規の逆アセンブル作業にも影響との報告",https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked,AIモデル/ポリシー,Tom's Hardware
 2026-11-05,"TencentがHy4最終版を発表——視覚理解・コンピュータ操作機能追加、770Bオープンウェイト",https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats,AIモデル/OSS,South China Morning Post
 2026-11-05,"OpenAIがGPT-6 AstraによるCodexコンパニオンデバイス設計を公開——1週間未満でプロトタイプ完成",https://openai.com/index/accelerating-engineering-for-the-physical-world/,AIエージェント/ハードウェア,OpenAI Blog
+2026-11-06,"AnthropicがAI応答の出所を暗号学的に証明するオープンソースFlashProveを公開",https://www.anthropic.com/research/provable-inference,AIセキュリティ/暗号技術,Anthropic
+2026-11-06,"ClaudeがcrYEM解析で原核生物のvault粒子の世界初3D構造を解明",https://www.anthropic.com/research/investigating-vault-particles-with-claude,AIバイオ/研究,Anthropic
+2026-11-06,"MicrosoftがAIエージェント生成コードを形式検証するPDD Kitを発表",https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/,AIツール/開発,Microsoft Research
+2026-11-06,"Google CloudがAgent Substrate 1.0 GAを発表しAIエージェント基盤3プロジェクトをCNCFに寄贈",https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf,AIインフラ/OSS,Google Cloud
+2026-11-06,"Google CloudがGemini Omni 1.2 Flash動画生成モデルをGA——720p動画1秒0.07ドルで前バージョン比30%安",https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available,AIモデル/動画,Google Cloud
