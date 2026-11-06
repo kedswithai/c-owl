@@ -1155,3 +1155,8 @@
 2026-11-06,"MicrosoftがAIエージェント生成コードを形式検証するPDD Kitを発表",https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/,AIツール/開発,Microsoft Research
 2026-11-06,"Google CloudがAgent Substrate 1.0 GAを発表しAIエージェント基盤3プロジェクトをCNCFに寄贈",https://cloud.google.com/blog/products/containers-kubernetes/open-infrastructure-for-autonomous-agents-comes-to-cncf,AIインフラ/OSS,Google Cloud
 2026-11-06,"Google CloudがGemini Omni 1.2 Flash動画生成モデルをGA——720p動画1秒0.07ドルで前バージョン比30%安",https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available,AIモデル/動画,Google Cloud
+2026-11-07,"OpenAIがGPT-6 Cyberを正式リリース——Firefoxの未知の脆弱性81件を発見、セキュリティ最高リスク「Critical」評価",https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google,AIセキュリティ/モデル,VentureBeat
+2026-11-07,"Agility Robotics、ヒューマノイドロボット企業として米国初のナスダック上場——ティッカーAGLT、評価額25億ドル",https://www.globenewswire.com/news-release/2026/11/05/3396226/0/en/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt.html,AIロボット/IPO,GlobeNewswire
+2026-11-07,"米司法省がAI悪用対策の「Super Intelligence Task Force」を設立——外国政府・犯罪集団による悪用を標的",https://www.nextgov.com/artificial-intelligence/2026/11/department-justice-forms-ai-task-force/417074/,AI規制/政策,Nextgov/FCW
+2026-11-07,"AI株が$2.3兆ドル急落から1日で反発——中間選挙後のデータセンター規制懸念が揺さぶった市場",https://bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over,AIビジネス/市場,Bloomberg
+2026-11-07,"Palo Alto Networks、AIエージェントセキュリティのClutchを5億ドルで買収交渉中",https://techcrunch.com/2026/11/06/palo-alto-networks-in-talks-to-acquire-ai-agent-security-startup-clutch/,AIセキュリティ/M&A,TechCrunch
