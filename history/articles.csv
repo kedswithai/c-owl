@@ -1168,3 +1168,8 @@
 2026-11-09,"NvidiaのCEOジェンセン・ファン氏が不倫を社員に告白——取締役会が中国スパイ疑惑を巡る独立調査を開始",https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/,AIセキュリティ/地政学,TechCrunch / Axios / Bloomberg
 2026-11-09,"OpenAIが第1次クローズで110億ドル調達——評価額1.25兆ドルは当初目標を下回る",https://aiweekly.co/alerts/openai-wires-11b-first-close-at-125t-below-14t-target,AIビジネス/資金調達,AI Weekly / TechCrunch / Bloomberg
 2026-11-09,"AnthropicのIPO評価額が2兆ドル超の想定から1.5兆ドル前後に下落——11月16日週の上場に向け投資家と調整",https://aiweekly.co/alerts/reuters-anthropic-ipo-investors-push-valuation-down-to-15t-from-2t-over-q3,AIビジネス/IPO,Reuters / Wall Street Journal
+2026-11-10,"AnthropicがClaude Fable 5.2とClaude Mythos 5.2をリリース——Opus 5.5を上回る性能、価格は20%引き下げ",https://www.anthropic.com/claude-fable-and-mythos-5-2,AIモデル/リリース,Anthropic
+2026-11-10,"Claudeが実機エレクトロニクス設計を完遂——スピーカーフォン・音声ハブ・電子ペットの3試作品が動作確認",https://www.anthropic.com/research/claude-electronics-design,AI研究/ハードウェア,Anthropic Research
+2026-11-10,"GoogleがTPU 8txとTPU 8i Maxを発表——機密推論と超大規模コンテキストに特化した第8世代TPU 2機種",https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max,AIチップ/インフラ,Google Cloud
+2026-11-10,"GoogleがCloud Pathways（分散ML実行ランタイム）をGAに昇格——Gemini訓練を支えた技術をGKEで一般提供",https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga,AIインフラ/OSS,Google Cloud
+2026-11-10,"企業の49%がレガシーソフトウェアでAI導入を阻害——Google Cloud調査が「ベンダーロックイン×AI化」の矛盾を指摘",https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization,AIビジネス/調査,Google Cloud
