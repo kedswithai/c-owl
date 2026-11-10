@@ -1173,3 +1173,8 @@
 2026-11-10,"GoogleがTPU 8txとTPU 8i Maxを発表——機密推論と超大規模コンテキストに特化した第8世代TPU 2機種",https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max,AIチップ/インフラ,Google Cloud
 2026-11-10,"GoogleがCloud Pathways（分散ML実行ランタイム）をGAに昇格——Gemini訓練を支えた技術をGKEで一般提供",https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga,AIインフラ/OSS,Google Cloud
 2026-11-10,"企業の49%がレガシーソフトウェアでAI導入を阻害——Google Cloud調査が「ベンダーロックイン×AI化」の矛盾を指摘",https://cloud.google.com/blog/products/ai-machine-learning/new-survey-finds-enterprises-trapped-between-legacy-software-and-ai-modernization,AIビジネス/調査,Google Cloud
+2026-11-11,"AnthropicがIPOロードショーを正式開始——公募価格70〜78ドル、8.25億株発行",https://www.anthropic.com/news/roadshow-launch,AIビジネス/IPO,Anthropic
+2026-11-11,"NvidiaがCoRL 2026でGR00T 2を公開——2BパラメータのWorld Action Modelが95%タスク成功率",https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/,AIロボット/モデル,The Robot Report
+2026-11-11,"ニューヨーク州RAISE法施行——OpenAI・Anthropicなど大規模AIモデル開発者が登録義務対象に",https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/,AI規制/政策,TechCrunch
+2026-11-11,"オーストラリア首相がAI義務的安全措置の法制化を宣言——事故報告・独立評価・新規制当局設立",https://ia.acs.org.au/article/2026/albanese-backs-global-push-for-tighter-ai-safeguards.html,AI規制/政策,ACS
+2026-11-11,"米中間選挙でAI規制派が勝利——民主党が上下両院を奪還、Ted Lieu議員が規制推進を宣言",https://abc3340.com/news/nation-world/incoming-democratic-majorities-put-ai-giants-on-notice-artificial-intelligence-energy-costs,AI政策/選挙,AP/AFP
