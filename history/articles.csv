@@ -1256,3 +1256,8 @@
 2026-11-26,"Dell Technologies Q3 FY27決算: AIサーバー売上高220億ドル（前年比+291%）、受注残1320億ドル",https://www.techrepublic.com/article/news-dell-ai-server-revenue-q3-fy27-backlog/,AIビジネス/決算,TechRepublic
 2026-11-26,"シューマー上院院内総務がNvidiaジェンセン・ファン氏を輸出規制違反で非難、12月3日に公開公聴会",https://finance.yahoo.com/technology/articles/schumer-accuses-huang-violating-u-191611087.html,AI規制/政策,Yahoo Finance
 2026-11-26,"技能実習法に基づく行政処分：監理団体2団体の許可取消し、実習実施者11社の計画認定取消し",https://www.mhlw.go.jp/stf/newpage_77352.html,外国人材/技能実習,厚生労働省
+2026-11-27,"AnthropicがメッセージAPIをRustに移行——CPU70%減・メモリ80%減・TTFT20%短縮",https://www.anthropic.com/research/migrating-api-to-rust,AIインフラ/技術,Anthropic Research
+2026-11-27,"AnthropicがClaude Shipを発表——AIエージェントがPRレビュー・CIエラー修正・自動承認まで対応",https://claude.com/resources/articles/introducing-claude-ship,AIプロダクト/開発ツール,Anthropic
+2026-11-27,"MCPサーバーがスキル配信・バックグラウンドタスク・ユーザー入力受付に対応",https://claude.com/resources/articles/skills-over-mcp-tasks-and-more,AIプラットフォーム/MCP,Anthropic
+2026-11-27,"ClaudeアーティファクトをMac・Windowsネイティブアプリに変換できるInstall as app機能がベータ公開",https://claude.com/resources/articles/install-as-app,AIプロダクト/生産性,Anthropic
+2026-11-27,"Anthropic調査：AI活用の最大価値はコスト削減でなく新機能創出と組織再設計——企業58社インタビュー",https://www.anthropic.com/research/working-with-ai,AIビジネス/調査,Anthropic Research
