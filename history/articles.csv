@@ -1261,3 +1261,8 @@
 2026-11-27,"MCPサーバーがスキル配信・バックグラウンドタスク・ユーザー入力受付に対応",https://claude.com/resources/articles/skills-over-mcp-tasks-and-more,AIプラットフォーム/MCP,Anthropic
 2026-11-27,"ClaudeアーティファクトをMac・Windowsネイティブアプリに変換できるInstall as app機能がベータ公開",https://claude.com/resources/articles/install-as-app,AIプロダクト/生産性,Anthropic
 2026-11-27,"Anthropic調査：AI活用の最大価値はコスト削減でなく新機能創出と組織再設計——企業58社インタビュー",https://www.anthropic.com/research/working-with-ai,AIビジネス/調査,Anthropic Research
+2026-11-28,"GoogleのAIエージェント「Cogentic」が整数素因数分解L[1/3]アルゴリズムを含む6本の数学論文を一挙発表",https://news.lavx.hu/article/google-research-posts-ai-generated-paper-claiming-unconditional-integer-factorization-in-subexponential-time,AIモデル/数学,news.lavx.hu
+2026-11-28,"AnthropicがEnterprise Frontier Safeguards（EFS）をパブリックベータに移行——ゼロデータ保持対応で規制産業でのAI導入を後押し",https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards,AIプロダクト/Anthropic,Anthropic
+2026-11-28,"ブラックフライデーに主要小売業者がAIショッピングエージェントを相次いでブロック——Bain調査でAI経由の購買はわずか0.4%",https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html,AIビジネス/コマース,CNBC
+2026-11-28,"Nvidia半導体再販業者が中国顧客へのチップ供給を全面停止——新米輸出規制の50%ルール廃止で想定超えの厳格化",https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html,AIチップ/規制,CNBC
+2026-11-28,"OpenAIが2026年12月にChatGPTとCodexのトークン上限を統合——Plus・Pro・Businessプランの利用枠が一本化",https://thenewstack.io/openai-chatgpt-codex-shared-limits/,AIプロダクト/OpenAI,The New Stack
